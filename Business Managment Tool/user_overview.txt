@@ -1,0 +1,21 @@
+User: alex
+Total Tasks Assigned: 1
+Percentage of Total Tasks: 25.00%
+Percentage of Completed Tasks: 100.00%
+Percentage of Incomplete Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: robert
+Total Tasks Assigned: 2
+Percentage of Total Tasks: 50.00%
+Percentage of Completed Tasks: 50.00%
+Percentage of Incomplete Tasks: 50.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: Adriana
+Total Tasks Assigned: 1
+Percentage of Total Tasks: 25.00%
+Percentage of Completed Tasks: 100.00%
+Percentage of Incomplete Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+

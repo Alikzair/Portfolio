@@ -1,0 +1,1 @@
+{"cats": {"food": 1}, "dogs": {"food": 3}, "hamsters": {"bedding": 4}}
